@@ -1,0 +1,18 @@
+{
+    "description": {
+        "tooltips": {
+            "popeCoatOfArms": "Este selo indica que foi Papa",
+            "canon": "Data de canonização",
+            "liturgicalFeast": "Data da festa litúrgica",
+            "papacyTime": "Período do papado"
+        },
+        "fullname": "Nome Completo",
+        "birthInfo": "Nascimento",
+        "deathInfo": "Falecimento",
+        "canon": "Canonização",
+        "liturgicalFeast": "Festa litúrgica",
+        "papacyTime": "Papado",
+        "popeCoatOfArms": "Brasão Papal",
+        "popeCoatOfArmsNotFound": "* O primeiro brasão que se tem evidência foi no ano de 1198 (PP. Inocêncio III)."
+    }
+}

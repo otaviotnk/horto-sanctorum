@@ -1,0 +1,18 @@
+{
+    "description": {
+        "tooltips": {
+            "popeCoatOfArms": "Ce sceau indique qu'il était pape",
+            "canon": "Date de canonisation",
+            "liturgicalFeast": "Date de la fête liturgique",
+            "papacyTime": "Période du pontificat"
+        },
+        "fullname": "Nom complet",
+        "birthInfo": "Naissance",
+        "deathInfo": "Décès",
+        "canon": "Canonisation",
+        "liturgicalFeast": "Fête liturgique",
+        "papacyTime": "Pontificat",
+        "popeCoatOfArms": "Blason papal",
+        "popeCoatOfArmsNotFound": "* Le premier blason pour lequel il y a des preuves remonte à l'année 1198 (Pape Innocent III)."
+    }
+}

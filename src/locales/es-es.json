@@ -1,0 +1,18 @@
+{
+    "description": {
+        "tooltips": {
+            "popeCoatOfArms": "Este sello indica que fue Papa",
+            "canon": "Fecha de canonización",
+            "liturgicalFeast": "Fecha de la festividad litúrgica",
+            "papacyTime": "Período del papado"
+        },
+        "fullname": "Nombre Completo",
+        "birthInfo": "Nacimiento",
+        "deathInfo": "Fallecimiento",
+        "canon": "Canonización",
+        "liturgicalFeast": "Fiesta litúrgica",
+        "papacyTime": "Papado",
+        "popeCoatOfArms": "Escudo Papal",
+        "popeCoatOfArmsNotFound": "* El primer escudo del cual hay evidencia es del año 1198 (Papa Inocencio III)."
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "description": {
+        "tooltips": {
+            "popeCoatOfArms": "This seal indicates that he was Pope",
+            "canon": "Date of canonization",
+            "liturgicalFeast": "Date of liturgical feast",
+            "papacyTime": "Papal period"
+        },
+        "fullname": "Full Name",
+        "birthInfo": "Birth",
+        "deathInfo": "Death",
+        "canon": "Canonization",
+        "liturgicalFeast": "Liturgical Feast",
+        "papacyTime": "Papacy",
+        "popeCoatOfArms": "Papal Coat of Arms",
+        "popeCoatOfArmsNotFound": "* The first coat of arms for which there is evidence is from the year 1198 (Pope Innocent III)."
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "description": {
+        "tooltips": {
+            "popeCoatOfArms": "Dieses Siegel deutet darauf hin, dass er Papst war",
+            "canon": "Datum der Kanonisierung",
+            "liturgicalFeast": "Datum des liturgischen Festes",
+            "papacyTime": "Papstzeit"
+        },
+        "fullname": "Vollständiger Name",
+        "birthInfo": "Geburt",
+        "deathInfo": "Tod",
+        "canon": "Kanonisierung",
+        "liturgicalFeast": "Liturgisches Fest",
+        "papacyTime": "Papsttum",
+        "popeCoatOfArms": "Päpstliches Wappen",
+        "popeCoatOfArmsNotFound": "* Das erste Wappen, für das es Beweise gibt, stammt aus dem Jahr 1198 (Papst Innozenz III)."
+    }
+}

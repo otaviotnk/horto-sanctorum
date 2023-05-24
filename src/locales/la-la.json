@@ -1,0 +1,18 @@
+{
+    "description": {
+        "tooltips": {
+            "popeCoatOfArms": "Hic sigillum significat eum fuisse Papam",
+            "canon": "Dies canonizationis",
+            "liturgicalFeast": "Dies festi liturgici",
+            "papacyTime": "Tempus papatus"
+        },
+        "fullname": "Nomen Completum",
+        "birthInfo": "Nativitas",
+        "deathInfo": "Obitus",
+        "canon": "Canonizatio",
+        "liturgicalFeast": "Festum Liturgicum",
+        "papacyTime": "Papatus",
+        "popeCoatOfArms": "Scutum Papale",
+        "popeCoatOfArmsNotFound": "* Primum scutum, cuius est evidentia, est ex anno 1198 (Papa Innocentius III)."
+    }
+}
